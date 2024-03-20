@@ -2333,6 +2333,7 @@ dependencies = [
 name = "shuttle-sns-example"
 version = "0.1.0"
 dependencies = [
+ "anyhow",
  "aws-config",
  "aws-credential-types",
  "aws-sdk-sns",
